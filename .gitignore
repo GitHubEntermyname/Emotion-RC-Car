@@ -1,0 +1,35 @@
+
+---
+
+## 📄 .gitignore
+
+```gitignore
+# Arduino build artifacts
+*.hex
+*.elf
+*.bin
+*.eep
+
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Logs and temp
+*.log
+*.tmp
